@@ -18,6 +18,7 @@ The questions answered in the project are:
 5) What product sold the most? Why do you think it sold the most?
 
 What stuffs we did here ?
+
 1> Concatenating multiple csvs together to create a new DataFrame (pd.concat)
 
 2> Adding columns
