@@ -19,9 +19,15 @@ The questions answered in the project are:
 
 What stuffs we did here ?
 1> Concatenating multiple csvs together to create a new DataFrame (pd.concat)
+
 2> Adding columns
+
 3> Parsing cells as strings to make new columns (.str)
+
 4> Using the .apply() method
+
 5> Using groupby to perform aggregate analysis
+
 6> Plotting bar charts and lines graphs to visualize our results
+
 7> Labeling our graphs
