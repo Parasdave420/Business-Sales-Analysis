@@ -1,5 +1,4 @@
 # Business-Sales-Analysis
-A small project for data Science with data of sales of USA.
 
 Library used is Pandas and Matplotlib to analyze and answer some business questions related to sales. The data contains hundreds of thousands of electronic store purchases broken down by month, product type, cost, purchase address etc.
 
